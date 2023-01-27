@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanghongyangnt
 - 👀 I’m interested in C++，Java，python，
-- 🌱 I’m currently learning C++，Qt
+- 🌱 I’m currently learning C++，python, go
 
 
 <!---
